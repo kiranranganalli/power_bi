@@ -5,7 +5,8 @@
 This dashboard helps the pizza business analyze sales data to improve operations and customer satisfaction. It identifies key performance indicators (KPIs) such as revenue trends, ingredient popularity, and order patterns. Using this dashboard, the business can uncover insights like peak sales hours, high-revenue pizzas, and popular pizza sizes.
 
 Steps followed
-Steps Followed
+
+<img width="1470" alt="Screenshot 2025-01-28 at 5 29 36 PM" src="https://github.com/user-attachments/assets/23ed9885-8c5b-4812-b27b-1a1ba7b370c4" />
 
 *Step 1: Load Data into Power BI*
 
@@ -98,6 +99,8 @@ Filters allow users to drill down into specific segments for deeper insights.
 *Step 7: Publishing*
 
 The dashboard was published to Power BI Service. A descriptive title, company logo, and slicers were added for an enhanced user experience.
+
+<img width="1470" alt="Screenshot 2025-01-28 at 5 29 53 PM" src="https://github.com/user-attachments/assets/9f525a09-df9d-4f5c-b8ef-96d8c0bc284d" />
 
 Insights
 
